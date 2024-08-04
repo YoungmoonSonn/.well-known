@@ -1,0 +1,14 @@
+[
+	{
+		"relation": [
+			"delegate_permission/common.handle_all_urls"
+		],
+		"target":{
+			"namespace": "android_app"
+			"package_name: "com.example.texit",
+			"sha256_cert_fingerprints": [
+				"C6:DC:0D:2C:CB:89:F5:E0:56:6B:A7:6E:B6:A5:AB:30:DA:3B:3E:C6:FD:1B:BE:A4:39:4A:F8:5D:E6:9E:0A:6A"
+			]
+		}
+	}
+]
